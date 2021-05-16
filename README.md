@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Seyed Jafar 😄
-React Developer
+My name is Seyed Jafar 😄.
+React Developer.
 <!--
 **sj-seyedhoseyni/sj-seyedhoseyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
