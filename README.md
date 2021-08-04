@@ -1,5 +1,11 @@
-### Hi friends 👋, My name is Seyed Jafar 😄.
-⚡ React Developer.
+### Hi friends 👋, 
+# I'm Seyed Jafar 😄.
+### ⚡ Front-end Dev. 
+### ⚡ React Dev.
+# About Me
+### 🔭 I’m currently working on React JS.
+### 🌱 I’m currently learning Next JS, TS.
+# Contact Me
 📫 sj.seyedhoseyni@gmail.com
 <!--
 **sj-seyedhoseyni/sj-seyedhoseyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
