@@ -7,9 +7,9 @@
 ### I will upload my _`React`_ & _`Next`_ projects soon... Wait for the surprise... ✨
 <!-- ### 🌱 I’m currently learning Next JS, TS. -->
 # Contact Me
-📫 sj.seyedhoseyni@gmail.com <br/>
-⚡ <a href="https://ir.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209">Linkedin</a><br/>
-⚡ <a href="https://codepen.io/sj-seyedhoseyni ">Codepen</a><br/>
+<!-- 📫 sj.seyedhoseyni@gmail.com <br/> -->
+### 📫 <a href="https://ir.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209">_`Linkedin`_</a><br/>
+### ⚡ <a href="https://codepen.io/sj-seyedhoseyni ">_`Codepen`_</a><br/>
 
 # :writing_hand: Under Construction...
 <!--
