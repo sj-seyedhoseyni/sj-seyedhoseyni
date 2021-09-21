@@ -3,9 +3,10 @@
 ### ⚡ React Dev.
 ### ⚡ Front-end Dev. 
 # About Me
-### 🔭 I’m currently working on React JS.
-### I will upload my _`React`_ & _`Next`_ projects soon... Wait for the surprise... ✨
-<!-- ### 🌱 I’m currently learning Next JS, TS. -->
+### 🔭 I’m currently working on _`ReactJS`_.
+<!-- ### I will upload my _`React`_ projects and _`My Portfolio Website`_ soon... </br>
+### Wait for the surprise. ✨  -->
+### 🌱 I’m currently learning _`NextJS`_, _`TS`_, _`GraphQL`_.
 # Contact Me
 <!-- 📫 sj.seyedhoseyni@gmail.com <br/> -->
 ### 📫 <a href="https://ir.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209">_`Linkedin`_</a><br/>
