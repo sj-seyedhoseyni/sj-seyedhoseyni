@@ -1,15 +1,16 @@
 ### Hi friends 👋, 
 # I'm Seyed Jafar :sunglasses:.
-### ⚡ Front-end Dev. 
 ### ⚡ React Dev.
+### ⚡ Front-end Dev. 
 # About Me
 ### 🔭 I’m currently working on React JS.
-### 🌱 I’m currently learning Next JS, TS.
+<!-- ### 🌱 I’m currently learning Next JS, TS. -->
 # Contact Me
-📫 sj.seyedhoseyni@gmail.com
-⚡ https://codepen.io/sj-seyedhoseyni
+📫 sj.seyedhoseyni@gmail.com <br/>
+⚡ <a href="https://ir.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209">`Linkedin`</a><br/>
+⚡ <a href="https://codepen.io/sj-seyedhoseyni ">`Codepen`</a><br/>
 
-# :writing_hand: Under Construction
+# :writing_hand: Under Construction...
 <!--
 **sj-seyedhoseyni/sj-seyedhoseyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
