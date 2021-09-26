@@ -6,7 +6,7 @@
 ### I’m currently working on _`ReactJS`_.
 # 📫 Contact Me
 <!-- 📫 sj.seyedhoseyni@gmail.com <br/> -->
-### 💬 <a href="https://ir.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209">_`Linkedin`_</a><br/>
+### 💬 <a href="https://www.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6lL9XD92QAG%2FH">_`Linkedin`_</a><br/>
 ### ⚡ <a href="https://codepen.io/sj-seyedhoseyni ">_`Codepen`_</a><br/>
 
 # :writing_hand: Under Construction...
