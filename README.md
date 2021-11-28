@@ -3,7 +3,7 @@
 ### ⚡ React Dev.
 ### ⚡ Front-end Dev. 
 # 🔭 About Me
-### I’m currently working on _`ReactJS`_.
+### I’m currently working on _`ReactJS`_ & _`NextJS`_.
 # 📫 Contact Me
 <!-- 📫 sj.seyedhoseyni@gmail.com <br/> -->
 ### 💬 <a href="https://www.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6lL9XD92QAG%2FH">_`Linkedin`_</a><br/>
