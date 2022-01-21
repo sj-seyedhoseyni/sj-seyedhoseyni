@@ -1,26 +1,13 @@
-### Hi friends 👋, 
-# I'm Seyed Jafar :sunglasses:.
-### ⚡ React Dev.
-### ⚡ Front-end Dev. 
-# 🔭 About Me
-### I’m currently working on _`ReactJS`_ & _`NextJS`_.
-# 📫 Contact Me
-<!-- 📫 sj.seyedhoseyni@gmail.com <br/> -->
-### 💬 <a href="https://www.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6lL9XD92QAG%2FH">_`Linkedin`_</a><br/>
-### ⚡ <a href="https://codepen.io/sj-seyedhoseyni ">_`Codepen`_</a><br/>
+Hi friends👋, My name is _Seyed Jafar_.
+### ⚡ React.js & Next.js Developer.
 
-# :writing_hand: Under Construction...
-<!--
-**sj-seyedhoseyni/sj-seyedhoseyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Skills
+<a href="https://reactjs.org/"><b>_`React.js`_</b></a>
+<a href="https://nextjs.org/"><b>_`Next.js`_</b></a>
+<a href="https://tailwindcss.com/"><b>_`tailwindcss`_</b></a>
 
-Here are some ideas to get you started:
+## 💬 Contact Me
+<a href="https://www.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6lL9XD92QAG%2FH"><b>_Linkedin_</b></a> 
+<!-- ⚡ <a href="https://codepen.io/sj-seyedhoseyni "><b>_Codepen_</b></a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :writing_hand: Under Construction ...
