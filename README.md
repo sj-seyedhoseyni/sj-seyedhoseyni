@@ -4,7 +4,9 @@ Hi friends👋, My name is _Seyed Jafar_.
 ## 🔭 Skills
 <a href="https://reactjs.org/"><b>_`React.js`_</b></a>
 <a href="https://nextjs.org/"><b>_`Next.js`_</b></a>
-<a href="https://tailwindcss.com/"><b>_`tailwindcss`_</b></a>
+<a href="https://www.typescriptlang.org/"><b>_`TS`_</b></a>
+<a href="https://tailwindcss.com/"><b>_`Tailwindcss`_</b></a>
+<a href="https://mui.com/"><b>_`Material UI`_</b></a>
 
 ## 💬 Contact Me
 <a href="https://www.linkedin.com/in/seyed-jafar-seyed-hoseyni-ab3707209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6lL9XD92QAG%2FH"><b>_Linkedin_</b></a> 
